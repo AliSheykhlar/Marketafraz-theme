@@ -34,6 +34,11 @@
 <p align="center">
   <table>
     <tr>
+      <th>صفحه اصلی</th>
+      <th>صفحه فروشگاه</th>
+      <th>صفحه محصول</th>
+    </tr>
+    <tr>
       <td><img src="demo/screenshots/home-page.png" width="250"></td>
       <td><img src="demo/screenshots/shop-page.png" width="250"></td>
       <td><img src="demo/screenshots/product-page.png" width="250"></td>
@@ -42,6 +47,10 @@
 </p>
 <p align="center">
   <table>
+    <tr>
+      <th>ویجت‌ها</th>
+      <th>ویجت سبد خرید و مگامنو</th>
+    </tr>
     <tr>
       <td><img src="demo/screenshots/s2.png" width="250"></td>
       <td><img src="demo/screenshots/megamenu-widget.png" width="250"></td>
