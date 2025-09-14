@@ -10,7 +10,7 @@
 
 > برای تماشا روی تصویر بالا یا [اینجا](https://www.aparat.com/v/lhr8883) کلیک کنید.
 
-[مشاهده ویدیو از گیت هاب](demo/teaser.mp4)
+[مشاهده ویدیو از گیت هاب](https://alisheykhlar.github.io/Marketafraz-theme/)
 
 ## ✨ ویژگی‌ها
 - بیش از ۴۰ ویجت اختصاصی المنتوری
