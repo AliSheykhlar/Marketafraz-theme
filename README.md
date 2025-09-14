@@ -27,22 +27,16 @@
 - [اینستاگرام دایرکت](https://instagram.com/ali_shk.ir)  
 - [تلگرام پشتیبانی مارکت افراز](https://t.me/marketafraz)
 
-- ## 👨‍💻 طراحی و توسعه
+## 👨‍💻 طراحی و توسعه
 توسط [Ali Sheykhlar](https://github.com/AliSheykhlar)
 
 ## 📸 اسکرین‌شات‌ها
 <p align="center">
-  <img src="demo/screenshots/home-page.png" width="30%" />
-  <img src="demo/screenshots/shop-page.png" width="30%" />
-  <img src="demo/screenshots/product-page.png" width="30%" />
+  <table>
+    <tr>
+      <td><img src="demo/screenshots/home-page.png" width="250"></td>
+      <td><img src="demo/screenshots/shop-page.png" width="250"></td>
+      <td><img src="demo/screenshots/product-page.png" width="250"></td>
+    </tr>
+  </table>
 </p>
-
-
-## صفحه اصلی:
-![صفحه اصلی](demo/screenshots/home-page.png)
-
-## صفحه فروشگاه:
-![صفحه فروشگاه](demo/screenshots/shop-page.png)
-
-## صفحه محصول:
-![صفحه محصول](demo/screenshots/product-page.png)
