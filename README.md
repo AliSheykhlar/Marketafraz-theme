@@ -40,3 +40,11 @@
     </tr>
   </table>
 </p>
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="demo/screenshots/s2.png" width="250"></td>
+      <td><img src="demo/screenshots/megamenu-widget.png" width="250"></td>
+    </tr>
+  </table>
+</p>
