@@ -8,11 +8,10 @@
 
 ## 🎬 تیزر معرفی
 
-[![مشاهده ویدیو در آپارات](demo/screenshots/cover.png)](https://www.aparat.com/v/lhr8883)
+[![مشاهده ویدیو](demo/screenshots/cover.png)](https://alisheykhlar.github.io/Marketafraz-theme/)
 
-> برای تماشا روی تصویر بالا یا [اینجا](https://www.aparat.com/v/lhr8883) کلیک کنید.
+> برای تماشا روی تصویر بالا یا [اینجا](https://alisheykhlar.github.io/Marketafraz-theme/) کلیک کنید.
 
-[مشاهده ویدیو از گیت هاب](https://alisheykhlar.github.io/Marketafraz-theme/)
 
 ## ✨ ویژگی‌ها
 - بیش از ۴۰ ویجت اختصاصی المنتوری
