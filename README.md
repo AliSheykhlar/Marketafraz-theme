@@ -12,6 +12,8 @@
 
 > برای تماشا روی تصویر بالا یا [اینجا](https://alisheykhlar.github.io/Marketafraz-theme/) کلیک کنید.
 
+## دموی قالب مارکت افراز
+[مشاهده دمو](https://marketafraz.wasmer.app/)
 
 ## ✨ ویژگی‌ها
 - بیش از ۴۰ ویجت اختصاصی المنتوری
